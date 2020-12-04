@@ -1,6 +1,20 @@
 {
-  "main.css": "static/css/main.af3d934a.css",
-  "main.css.map": "static/css/main.af3d934a.css.map",
-  "main.js": "static/js/main.3970646a.js",
-  "main.js.map": "static/js/main.3970646a.js.map"
+  "files": {
+    "main.css": "/Recipe-Box/static/css/main.b0f6d154.chunk.css",
+    "main.js": "/Recipe-Box/static/js/main.9244dfe4.chunk.js",
+    "main.js.map": "/Recipe-Box/static/js/main.9244dfe4.chunk.js.map",
+    "runtime-main.js": "/Recipe-Box/static/js/runtime-main.dbcb0511.js",
+    "runtime-main.js.map": "/Recipe-Box/static/js/runtime-main.dbcb0511.js.map",
+    "static/js/2.ebe34865.chunk.js": "/Recipe-Box/static/js/2.ebe34865.chunk.js",
+    "static/js/2.ebe34865.chunk.js.map": "/Recipe-Box/static/js/2.ebe34865.chunk.js.map",
+    "index.html": "/Recipe-Box/index.html",
+    "static/css/main.b0f6d154.chunk.css.map": "/Recipe-Box/static/css/main.b0f6d154.chunk.css.map",
+    "static/js/2.ebe34865.chunk.js.LICENSE.txt": "/Recipe-Box/static/js/2.ebe34865.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbcb0511.js",
+    "static/js/2.ebe34865.chunk.js",
+    "static/css/main.b0f6d154.chunk.css",
+    "static/js/main.9244dfe4.chunk.js"
+  ]
 }
