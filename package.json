@@ -4,11 +4,11 @@
   "private": true,
   "homepage": "https://amran16.github.io/Recipe-Box",
   "dependencies": {
-    "react": "^15.6.1",
+    "react": "^17.0.1",
     "react-bootstrap": "^0.31.2",
-    "react-dom": "^15.6.1",
+    "react-dom": "^17.0.1",
     "react-modal": "^2.3.2",
-    "react-scripts": "1.0.12"
+    "react-scripts": "^4.0.1"
   },
   "scripts": {
     "start": "export PORT=7000 && react-scripts start",

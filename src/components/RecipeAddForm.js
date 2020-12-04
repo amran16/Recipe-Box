@@ -18,8 +18,6 @@ class RecipeAddForm extends Component{
 
     e.preventDefault();
 
-    //this.props.onSave({...this.state})
-
     const {title} = this.state;
     const {instructions} = this.state;
     const {ingredients} = this.state;
@@ -90,7 +88,7 @@ class RecipeAddForm extends Component{
           />
           </div>
           <div className=''>
-            <button type='submit'  className="buttons"> Save </button>
+            <button type='submit' className='buttons'> Save </button>
           </div>
        </form>
        </div>
